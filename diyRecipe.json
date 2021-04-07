@@ -5,8 +5,8 @@
 			"Usage": "Body cream",
 			"Time": 30,
 			"Description": "DIY Body Butter will make your skin moisturized and smooth.\nIt can reduces wrinkles, and soothes sunburn, eczema, and rashes.\nVisit the website below and enjoy making DIY body butter!",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/whipped-body-butter-recipe-P2.jpeg",
-            "Site_url": "https://www.theprairiehomestead.com/2014/12/whipped-body-butter-recipe.html",
+            		"image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/whipped-body-butter-recipe-P2.jpeg",
+            		"Site_url": "https://www.theprairiehomestead.com/2014/12/whipped-body-butter-recipe.html",
 			"Difficulty": "Moderate"
 
 		},
@@ -15,9 +15,9 @@
 			"Usage": "Face cream",
 			"Time": 20,
 			"Description": "DIY Face Cream will make your skin young and beautiful.\nIt can reduce wrinkles,eczema, and help your skin clean and moisturized.\nClick the site below and learn how to make DIY facial cream.",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
-            "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
-            "Difficulty": "Moderate"
+            		"image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
+            		"Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
+            		"Difficulty": "Moderate"
 
 		},
 		{
@@ -25,9 +25,9 @@
 			"Usage": "Haircare",
 			"Time": 10,
 			"Description": "DIY Hair Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY hair maks today! ",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/hairmaskP2.jpeg",
-            "Site_url": "https://onetwocosmetics.com/diy-hair-masks/",
-            "Difficulty": "Easy"
+            		"image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/hairmaskP2.jpeg",
+            		"Site_url": "https://onetwocosmetics.com/diy-hair-masks/",
+            		"Difficulty": "Easy"
 
 		},
 		{
@@ -35,9 +35,9 @@
 			"Usage": "Skincare",
 			"Time": 25,
 			"Description": "Making a DIY body scurub is easy!\nAs you massage your body with DIY scrub, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own body scrub today!",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Body-Scrub-p2.jpeg",
-            "Site_url": "https://www.diynatural.com/homemade-body-scrub/",
-            "Difficulty": "Easy"
+            		"image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Body-Scrub-p2.jpeg",
+            		"Site_url": "https://www.diynatural.com/homemade-body-scrub/",
+            		"Difficulty": "Easy"
 
 		},
 		{
@@ -45,9 +45,9 @@
 			"Usage": "Lip care",
 			"Time": 35,
 			"Description": "Making your own DIY lip balm will be your great experience if you have allergic reaction to the chemical lipstics or lip balm.\n The natural lip balm will help your lip hydrated and smooth.\nVisit the link below and try DIY lipbalm today!",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/10-Minute-DIY-Lip-Balm-Gloss-p2.jpeg",
-            "Site_url": "https://www.happinessishomemade.net/10-minute-diy-lip-balm/",
-            "Difficulty": "Moderate"
+            		"image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/10-Minute-DIY-Lip-Balm-Gloss-p2.jpeg",
+            		"Site_url": "https://www.happinessishomemade.net/10-minute-diy-lip-balm/",
+            		"Difficulty": "Moderate"
 
 		}
 
