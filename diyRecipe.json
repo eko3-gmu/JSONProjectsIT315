@@ -112,11 +112,11 @@
 		{
 			"name": "Lip balm",
 			"Usage": "Lip care",
-			"Time": 35,
+			"Time": 20,
 			"Description": "Making DIY Lip baml is fun and enjoyable!",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/10-Minute-DIY-Lip-Balm-Gloss-p2.jpeg",
-            "Site_url": "https://www.happinessishomemade.net/10-minute-diy-lip-balm/",
-            "Difficulty": "Moderate"
+            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/eb098ca2-70b9-4d97-b26c-443405903006.jpeg",
+            "Site_url": "https://www.bettycrocker.com/recipes/honey-lip-balm/8c9d4c59-7339-424c-898f-a0c3944da9e4",
+            "Difficulty": "Easy"
 
 		}
 
