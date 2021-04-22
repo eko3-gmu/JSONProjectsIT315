@@ -23,10 +23,10 @@
 		{
 			"name": "Hair Mask",
 			"Usage": "Haircare",
-			"Time": 10,
+			"Time": 20,
 			"Description": "DIY Hair Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY hair maks today! ",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/hairmaskP2.jpeg",
-            "Site_url": "https://onetwocosmetics.com/diy-hair-masks/",
+            "Site_url": "https://wellnessmama.com/285661/diy-hair-mask/",
             "Difficulty": "Easy"
 
 		},
