@@ -41,6 +41,15 @@
 
 		},
 		{
+			"name": "Shower Bomb",
+			"Usage": "Skin Care",
+			"Time": 20,
+			"Description": "DIY Shower Bomb is a great shower steamer!",
+            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
+            "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
+            "Difficulty": "Moderate"
+
+		},		{
 			"name": "Lip balm",
 			"Usage": "Lip care",
 			"Time": 35,
