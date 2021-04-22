@@ -21,12 +21,12 @@
 
 		},
 		{
-			"name": "Lip Scrub",
-			"Usage": "Lip care",
+			"name": "Facial and Lip Scrub",
+			"Usage": "Facial and Lip care",
 			"Time": 20,
-			"Description": "Organic DIY face lotion will moisturize your skin!",
-            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
-            "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
+			"Description": "Enjoy the natural facial and lip care!",
+            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/DIY%2BScrubs.png",
+            "Site_url": "https://www.makeupbysamanthalinn.com/blog/2020/4/20/diy-facial-and-lip-scrubs",
             "Difficulty": "Easy"
 
 		},		
