@@ -21,6 +21,15 @@
 
 		},
 		{
+			"name": "Sugar Scrub",
+			"Usage": "Skincare",
+			"Time": 15,
+			"Description": "DIY Sugar Scrub will make your skin young and clean. Try today!",
+            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/21-Sugar-Scrub-Recipes-fb.png",
+            "Site_url": "https://livingthenourishedlife.com/homemade-sugar-scrub-recipes/",
+            "Difficulty": "Easy"
+
+		},		{
 			"name": "Aloe Mask",
 			"Usage": "Hair Mask",
 			"Time": 10,
