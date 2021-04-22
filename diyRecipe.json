@@ -3,7 +3,7 @@
 		{
 			"name": "Body Butter",
 			"Usage": "Body cream",
-			"Time": 30,
+			"Time": 45,
 			"Description": "Try amazing DIY Body Butter to moisturize your skin today.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/whipped-body-butter-recipe-P2.jpeg",
             "Site_url": "https://www.theprairiehomestead.com/2014/12/whipped-body-butter-recipe.html",
@@ -13,7 +13,7 @@
 		{
 			"name": "Face Lotion",
 			"Usage": "Face cream",
-			"Time": 20,
+			"Time": 40,
 			"Description": "Organic DIY face lotion will moisturize your skin!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
             "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
@@ -23,10 +23,20 @@
 		{
 			"name": "Eye Cream",
 			"Usage": "Eye care",
-			"Time": 20,
+			"Time": 25,
 			"Description": "DIY eye cream will naturally soothe your eyes!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/thingsneeded-coffee-frankincense-oil-under-eye-cream.jpeg",
             "Site_url": "https://www.fabhow.com/diy-homemade-eye-cream.html",
+            "Difficulty": "Moderate"
+
+		},
+		{
+			"name": "Facial Cleanser",
+			"Usage": "Skincare",
+			"Time": 15,
+			"Description": "Enjoy the natural facial cleanser to clean your skin!",
+            "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Face-Wash2-1028x733.jpeg",
+            "Site_url": "https://www.diynatural.com/powder-face-wash/",
             "Difficulty": "Moderate"
 
 		},		
