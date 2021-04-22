@@ -14,7 +14,7 @@
 			"name": "Face Lotion",
 			"Usage": "Face cream",
 			"Time": 20,
-			"Description": "Try amazing DIY face lotion to moisturize your skin today.",
+			"Description": "Organic DIY face lotion will moisturize your skin!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
             "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
             "Difficulty": "Moderate"
@@ -33,7 +33,7 @@
 			"name": "Aloe Mask",
 			"Usage": "Hair Mask",
 			"Time": 10,
-			"Description": "Try amazing DIY Aloe Mask to moisturize your skin today.",
+			"Description": "DIY Aloe Mask will prefectly rejuvenate your skin!.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Aloe_Vera_1296x728-header-1-1-1296x728.jpeg",
             "Site_url": "https://www.healthline.com/health/aloe-vera-hair-mask",
             "Difficulty": "Easy"
@@ -53,7 +53,7 @@
 			"name": "Body Scrub",
 			"Usage": "Skincare",
 			"Time": 25,
-			"Description": "Try amazing DIY Body Scrub to moisturize your skin today.",
+			"Description": "DIY Body Scrub is awesome to clean your skin!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Body-Scrub-p2.jpeg",
             "Site_url": "https://www.diynatural.com/homemade-body-scrub/",
             "Difficulty": "Easy"
@@ -83,7 +83,7 @@
 			"name": "Lip balm",
 			"Usage": "Lip care",
 			"Time": 35,
-			"Description": "Try amazing DIY Lip baml to moisturize your skin today.",
+			"Description": "Making DIY Lip baml is fun and enjoyable!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/10-Minute-DIY-Lip-Balm-Gloss-p2.jpeg",
             "Site_url": "https://www.happinessishomemade.net/10-minute-diy-lip-balm/",
             "Difficulty": "Moderate"
