@@ -21,16 +21,6 @@
 
 		},
 		{
-			"name": "Sugar Face Scrub",
-			"Usage": "Face Scrub",
-			"Time": 15,
-			"Description": "DIY Sugar Face Scrub will make your skin shine and clean. Try it today!",
-            "image_url":"https://www.google.com/search?q=diy+sugar+face+scrub&sxsrf=ALeKk0229SxJcnjjl24orjB9iM_ozlTIMw:1619062632683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiF5Nuo9pDwAhVsF1kFHVhDBXUQ_AUoA3oECAEQBQ&biw=1200&bih=798#imgrc=xdob9iYvWEChQM",
-            "Site_url": "https://www.fabhow.com/diy-face-scrub-recipes.html",
-            "Difficulty": "Moderate"
-
-		},
-		{
 			"name": "Aloe Mask",
 			"Usage": "Hair Mask",
 			"Time": 10,
