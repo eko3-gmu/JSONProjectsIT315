@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Facial and Lip Scrub",
-			"Usage": "Facial and Lip care",
+			"Usage": "Skincare care",
 			"Time": 20,
 			"Description": "Enjoy the natural facial and lip care!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/DIY%2BScrubs.png",
@@ -81,7 +81,7 @@
 		},
 		{
 			"name": "Hair Mask",
-			"Usage": "Haircare",
+			"Usage": "Hair Mask",
 			"Time": 20,
 			"Description": "Try amazing DIY hair mask to care your hair today.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/hairmask.jpeg",
@@ -101,7 +101,7 @@
 		},
 		{
 			"name": "Shower Bomb",
-			"Usage": "Skin Care",
+			"Usage": "Skincare",
 			"Time": 20,
 			"Description": "DIY Shower Bomb is a great shower steamer!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/3-different-types-of-DIY-shower-steamers-with-lavender-citrus-and-menthol.jpeg",
@@ -111,7 +111,7 @@
 		},		
 		{
 			"name": "Shave Gel",
-			"Usage": "Skin Care",
+			"Usage": "Skincare",
 			"Time": 50,
 			"Description": "DIY Shave Gel will moisturize your skin while you shave!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/blog-DIY-shaving-cream-with-essential-oils_Header_US.jpeg",
@@ -121,7 +121,7 @@
 		},
 		{
 			"name": "Coffee Scrub",
-			"Usage": "Skin Care",
+			"Usage": "Skincare",
 			"Time": 7,
 			"Description": "Try amazing DIY Coffee Scrub to moisturize your skin today.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/coffee-body-scrub-youtube-thumbnail-1024x576.jpeg",
