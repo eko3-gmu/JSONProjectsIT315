@@ -14,7 +14,7 @@
 			"name": "Face Lotion",
 			"Usage": "Face cream",
 			"Time": 40,
-			"Description": "DIY Face Cream will make your skin young and beautiful.\nIt can reduce wrinkles,eczema, and help your skin clean and moisturized.\nClick the site below and learn how to make DIY face lotion.",
+			"Description": "DIY Face lotion will make your skin young and beautiful.\nIt can reduce wrinkles,eczema, and help your skin clean and moisturized.\nClick the site below and learn how to make DIY face lotion.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
             "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
             "Difficulty": "Moderate"
@@ -44,7 +44,7 @@
 			"name": "Facial Toner",
 			"Usage": "Skincare",
 			"Time": 20,
-			"Description": "DIY Hair Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY hair maks today! ",
+			"Description": "DIY Facial Toner can help your skin shinier, softner.\nIt can add moisture to your skin, and reduce hair skin damage.\nVisit the link below and enjoy making DIY Facial Toner today! ",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Anti-Aging-Facial-Toner.jpeg",
             "Site_url": "https://www.diynatural.com/homemade-facial-skin-toner/",
             "Difficulty": "Easy"
@@ -103,7 +103,7 @@
 			"name": "Shower Bomb",
 			"Usage": "Skincare",
 			"Time": 20,
-			"Description": "DIY Shower Bomb is a great shower steamer!",
+			"Description": "Making a DIY Shower Bomb is easy!\nThe intent is more as the mixture of organic products, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own shower bomb today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/3-different-types-of-DIY-shower-steamers-with-lavender-citrus-and-menthol.jpeg",
             "Site_url": "https://diybeautybase.com/how-to-make-shower-steamers/",
             "Difficulty": "Moderate"
@@ -113,7 +113,7 @@
 			"name": "Shave Gel",
 			"Usage": "Skincare",
 			"Time": 50,
-			"Description": "DIY Shave Gel will moisturize your skin while you shave!",
+			"Description": "DIY Shave Gel will make your skin young and beautiful.\nIt can reduce eczema, and help your skin clean and moisturized.\nClick the site below and learn how to make DIY Shave Gel.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/blog-DIY-shaving-cream-with-essential-oils_Header_US.jpeg",
             "Site_url": "https://www.youngliving.com/blog/diy-shaving-cream-with-essential-oils/",
             "Difficulty": "Moderate"
@@ -123,7 +123,7 @@
 			"name": "Coffee Scrub",
 			"Usage": "Skincare",
 			"Time": 7,
-			"Description": "Try amazing DIY Coffee Scrub to moisturize your skin today.",
+			"Description": "Making a DIY coffee scurub is easy!\nAs you massage your body with DIY coffee scrub, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own body coffee scrub today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/coffee-body-scrub-youtube-thumbnail-1024x576.jpeg",
             "Site_url": "https://thecoconutmama.com/coffee-body-scrub/",
             "Difficulty": "Moderate"
