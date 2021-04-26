@@ -24,7 +24,7 @@
 			"name": "Facial and Lip Scrub",
 			"Usage": "Skincare",
 			"Time": 20,
-			"Description": "Enjoy the natural facial and lip care!",
+			"Description": "DIY Facial and Lip Scrub will make your skin moisturized and smooth.\nIt can reduces wrinkles, and soothes sunburn, eczema, and rashes.\nVisit the website below and enjoy making DIY Facial and Lip Scrub!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/DIY%2BScrubs.png",
             "Site_url": "https://www.makeupbysamanthalinn.com/blog/2020/4/20/diy-facial-and-lip-scrubs",
             "Difficulty": "Easy"
@@ -34,7 +34,7 @@
 			"name": "Eye Cream",
 			"Usage": "Eye care",
 			"Time": 25,
-			"Description": "DIY eye cream will naturally soothe your eyes!",
+			"Description": "DIY Eye Cream will make your skin around your eyeyoung and beautiful.\nIt can reduce wrinkles, and help your skin clean and moisturized.\nClick the link below and learn how to make DIY eye cream.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/thingsneeded-coffee-frankincense-oil-under-eye-cream.jpeg",
             "Site_url": "https://www.fabhow.com/diy-homemade-eye-cream.html",
             "Difficulty": "Moderate"
@@ -44,7 +44,7 @@
 			"name": "Facial Toner",
 			"Usage": "Skincare",
 			"Time": 20,
-			"Description": "DIY Facial toner will prevent fine lines by boosting collagen!",
+			"Description": "DIY Hair Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY hair maks today! ",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Anti-Aging-Facial-Toner.jpeg",
             "Site_url": "https://www.diynatural.com/homemade-facial-skin-toner/",
             "Difficulty": "Easy"
@@ -54,7 +54,7 @@
 			"name": "Facial Cleanser",
 			"Usage": "Skincare",
 			"Time": 15,
-			"Description": "Enjoy the natural facial cleanser to clean your skin!",
+			"Description": "Making a DIY Facial Cleanser is easy!\nAs you massage your face with DIY cleanser, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own facial cleanser today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Face-Wash2-1028x733.jpeg",
             "Site_url": "https://www.diynatural.com/powder-face-wash/",
             "Difficulty": "Moderate"
@@ -64,7 +64,7 @@
 			"name": "Sugar Scrub",
 			"Usage": "Skincare",
 			"Time": 15,
-			"Description": "Try amazing DIY Sugar Scrub to clean your skin today.",
+			"Description": "Making a DIY body sugar scurub is easy!\nAs you massage your body with DIY scrub, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own body sugar scrub today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/21-Sugar-Scrub-Recipes-fb.png",
             "Site_url": "https://livingthenourishedlife.com/homemade-sugar-scrub-recipes/",
             "Difficulty": "Easy"
@@ -73,7 +73,7 @@
 			"name": "Aloe Mask",
 			"Usage": "Hair Mask",
 			"Time": 10,
-			"Description": "DIY Aloe Mask will prefectly rejuvenate your skin!",
+			"Description": "DIY Aloe Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY Aloe hair maks today! ",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Aloe_Vera_1296x728-header-1-1-1296x728.jpeg",
             "Site_url": "https://www.healthline.com/health/aloe-vera-hair-mask",
             "Difficulty": "Easy"
