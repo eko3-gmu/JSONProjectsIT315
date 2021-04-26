@@ -14,7 +14,7 @@
 			"name": "Face Lotion",
 			"Usage": "Face cream",
 			"Time": 40,
-			"Description": "Organic DIY face lotion is a great moisturizer for your skin!",
+			"Description": "DIY Face Cream will make your skin young and beautiful.\nIt can reduce wrinkles,eczema, and help your skin clean and moisturized.\nClick the site below and learn how to make DIY facial cream.",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-natural-lotion-recipe-p2.jpeg",
             "Site_url": "https://wellnessmama.com/3765/homemade-lotion-recipe/",
             "Difficulty": "Moderate"
@@ -83,7 +83,7 @@
 			"name": "Hair Mask",
 			"Usage": "Hair Mask",
 			"Time": 20,
-			"Description": "Try amazing DIY hair mask to care your hair today.",
+			"Description": "DIY Hair Mask can help your hair shinier, softner.\nIt can add moisture to your hair, and reduce hair breakage and damage.\nVisit the link below and enjoy making DIY hair maks today! ",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/hairmask.jpeg",
             "Site_url": "https://wellnessmama.com/285661/diy-hair-mask/",
             "Difficulty": "Easy"
@@ -93,7 +93,7 @@
 			"name": "Body Scrub",
 			"Usage": "Skincare",
 			"Time": 25,
-			"Description": "DIY Body Scrub is awesome to clean your skin!",
+			"Description": "Making a DIY body scurub is easy!\nAs you massage your body with DIY scrub, you will experience your skin in clean, soften, and nourishing.\nCheck the link below and try your own body scrub today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/Homemade-Body-Scrub-p2.jpeg",
             "Site_url": "https://www.diynatural.com/homemade-body-scrub/",
             "Difficulty": "Easy"
@@ -133,7 +133,7 @@
 			"name": "Lip balm",
 			"Usage": "Lip care",
 			"Time": 20,
-			"Description": "Making DIY Lip baml is fun and enjoyable!",
+			"Description": "Making your own DIY lip balm will be your great experience if you have allergic reaction to the chemical lipstics or lip balm.\n The natural lip balm will help your lip hydrated and smooth.\nVisit the link below and try DIY lipbalm today!",
             "image_url":"https://raw.githubusercontent.com/eko3-gmu/JSONProjectsIT315/master/eb098ca2-70b9-4d97-b26c-443405903006.jpeg",
             "Site_url": "https://www.bettycrocker.com/recipes/honey-lip-balm/8c9d4c59-7339-424c-898f-a0c3944da9e4",
             "Difficulty": "Easy"
